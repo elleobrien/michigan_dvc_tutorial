@@ -1,1 +1,1 @@
-# Repo for University of Michigan lecture tutorial
+# Materials for University of Michigan lecture tutorial
