@@ -1,1 +1,1 @@
-# Michigan_dvc_tutorial
+# Repo for University of Michigan lecture tutorial
